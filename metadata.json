@@ -1,0 +1,6 @@
+{
+  "name": "Medano4you",
+  "description": "Holiday Homes & Hospitality Management in El Médano",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
